@@ -1,1 +1,2 @@
 staged
+This line is added
